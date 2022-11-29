@@ -215,7 +215,7 @@ exclude: false
 ## International Collaboration      
   
 .center[
-```{r nextrain_website, echo=FALSE, message=FALSE, error=FALSE, comment=FALSE, eval=TRUE, autodep=TRUE, fig.align='center', out.width='70%'}
+```{r nextrain_website, echo=FALSE, message=FALSE, error=FALSE, comment=FALSE, eval=TRUE, autodep=TRUE, fig.align='center', out.width='60%'}
 knitr::include_graphics("figs/nextstrain_ncov_screenshot.png")
 ```
 ]
@@ -257,29 +257,6 @@ knitr::include_url("https://microb120.med.upenn.edu/data/SARS-CoV-2")
   
 
 ---
-exclude: true
-class: hide-count
-
-.pull-left[
-```{r, echo=FALSE, echo=FALSE, message=FALSE, warning=FALSE, error=FALSE, fig.align='center', out.width='90%'}
-knitr::include_graphics(path = "img/wilson_simberloff_ecology_1969_fig8_crop.png")
-
-```
-
-]
-
-.pull-right[
-```{r, echo=FALSE, echo=FALSE, message=FALSE, warning=FALSE, error=FALSE, fig.align='center', out.width='85%'}
-knitr::include_graphics(path = "img/icu_patient_and_doc_crop.png")
-
-```
-
-]
-
-.footnote-left[Wilson & Simberloff _Ecology_ 1969; photo: _New York Times_]
-
-
----
 layout: false
 class: full-screen hide-count
 
@@ -290,6 +267,28 @@ class: full-screen hide-count
 </div>
 
 
+
+---
+
+.center[
+```{r, echo=FALSE, echo=FALSE, message=FALSE, warning=FALSE, error=FALSE, fig.align='center', out.width='80%'}
+knitr::include_graphics(path = "./figs//p_ct_distribution_ridgeplot_flip.png")
+
+```
+
+]
+
+
+
+---
+
+.center[
+```{r, echo=FALSE, echo=FALSE, message=FALSE, warning=FALSE, error=FALSE, fig.align='center', out.width='80%'}
+knitr::include_graphics(path = "./figs/p_ct_distribution_ridgeplot_with_seqbar_flip.png")
+
+```
+
+]
 
 
 
@@ -302,6 +301,55 @@ class: full-screen hide-count
 <div class="extension-tile gridset-grey"><div>Biases &<br>Limitations</div></div>
 <div class="extension-tile gridset-c"><div>Omicron<br>Origins</div></div>
 </div>
+
+
+
+
+---
+
+## Where did 'weird' Omicron come from?
+
+.center[
+```{r, echo=FALSE, echo=FALSE, message=FALSE, warning=FALSE, error=FALSE, fig.align='center', out.width='80%'}
+knitr::include_graphics(path = "./figs/new_long_branch_screenshot.png")
+
+```
+
+]
+
+.footnote-left[[Kupferschmidt K *Science* 1 Dec 2021](https://www.science.org/content/article/where-did-weird-omicron-come)]  
+
+---
+
+## Where did 'weird' Omicron come from?
+
+.center[
+```{r, echo=FALSE, echo=FALSE, message=FALSE, warning=FALSE, error=FALSE, fig.align='center', out.width='80%'}
+knitr::include_graphics(path = "./figs/three_explanations_screenshot.png")
+
+```
+
+]
+
+.footnote-left[[Kupferschmidt K *Science* 1 Dec 2021](https://www.science.org/content/article/where-did-weird-omicron-come)]  
+
+
+
+
+---
+
+## Pennsylvania Deer
+
+.center[
+```{r, echo=FALSE, echo=FALSE, message=FALSE, warning=FALSE, error=FALSE, fig.align='center', out.width='80%'}
+knitr::include_graphics(path = "./figs/mbio.02101-22-f005.gif")
+
+```
+
+]
+
+.footnote-left[[Marques AD et al *mBio* 2022](http://dx.doi.org/10.1128/mbio.02101-22)]  
+
 
 
 
