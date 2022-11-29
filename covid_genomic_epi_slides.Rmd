@@ -39,7 +39,7 @@ xaringanExtra::use_share_again()
 
 ---
 class: top left hide-count
-background-image: url(img/giorgio-trovato-IclGoWB6wEY-unsplash.jpg)
+background-image: url(img/sarscov2_cdc_blur_crop.png)
 background-size: cover
 
 .move-top20[
@@ -56,7 +56,7 @@ University of Pennsylvania
 ]
 ]
 
-.footnote-right[<span style='color: white'>photo: Giorgio Trovato @unsplash</span>]  
+.footnote-right[<span style='color: white'>photo: CDC @unsplash</span>]  
 
 
 
@@ -415,7 +415,7 @@ class: full-screen hide-count
 
 ---
 class: middle center hide-count
-background-image: url(img/giorgio-trovato-IclGoWB6wEY-unsplash.jpg)
+background-image: url(img/sarscov2_cdc_blur_crop.png)
 background-size: cover
 
 .title-subtext[Questions?]
@@ -425,7 +425,7 @@ background-size: cover
 ---
 exclude: true
 class: middle center hide-count
-background-image: url(img/giorgio-trovato-IclGoWB6wEY-unsplash.jpg)
+background-image: url(img/sarscov2_cdc_blur_crop.png)
 background-size: cover
 
 .title-subtext[Questions?]
