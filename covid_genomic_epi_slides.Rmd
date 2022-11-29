@@ -175,13 +175,13 @@ class: full-screen hide-count
   
 .pad-left[  
   
-- National:  
+- **National**:  
 
     - monitor emergence and movement of new strains   
   
     - monitor trends after intervention (e.g., vaccination)   
   
-- Local:   
+- **Local**:   
     
     - investigate clusters for transmission (workplace, healthcare, etc)    
     
@@ -215,13 +215,13 @@ exclude: false
 ## International Collaboration      
   
 .center[
-```{r nextrain_website, echo=FALSE, message=FALSE, error=FALSE, comment=FALSE, eval=TRUE, autodep=TRUE, fig.align='center', out.width='95%'}
-knitr::include_url("https://nextstrain.org/ncov/gisaid/global/all-time?gmax=15830&gmin=14088")
+```{r nextrain_website, echo=FALSE, message=FALSE, error=FALSE, comment=FALSE, eval=TRUE, autodep=TRUE, fig.align='center', out.width='70%'}
+knitr::include_graphics("figs/nextstrain_ncov_screenshot.png")
 ```
 ]
 
   
-.footnote-left[https://nextstrain.org/ncov/gisaid/global/all-time]  
+.footnote-left[https://nextstrain.org/ncov/open/global/all-time]  
 
   
 
