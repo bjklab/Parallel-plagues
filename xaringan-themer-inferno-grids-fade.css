@@ -215,15 +215,15 @@ hr {
   color:white;
   font-size:5em;
   font-weight:normal;
-  line-height: 1.1em;
-  text-align: bottom;
+  line-height: 1.0em;
+  text-align: top;
 }
 .title-subtext {
   color:white;
   font-size:2em;
   font-weight:normal;
   line-height: 1.1em;
-  text-align: top;
+  text-align: bottom;
 }
 .title-nametext {
   color:white;
